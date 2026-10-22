@@ -1,0 +1,7 @@
+runtime/
+models/
+results/
+.cache/
+*.part
+vc_redist.x64.exe
+__pycache__/
